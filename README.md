@@ -11,28 +11,28 @@ Thành viên nhóm
 
 
   I. Mục đích:
-  • Thiết kế website nghe nhạc hoàn chỉnh, có tính cá nhân hóa cao mang những nét tùy biến riêng của mỗi người dùng.
+  + Thiết kế website nghe nhạc hoàn chỉnh, có tính cá nhân hóa cao mang những nét tùy biến riêng của mỗi người dùng.
 
   1. Phân công công việc:
 
   
   - Nguyễn Hữu Thắng
-      • Tổng hợp yêu cầu đề bài.
-      • Phân tích yêu cầu.
-      • Thiết kế front-end Markup (HTML,CSS).
-      • Viết báo cáo.
+      + Tổng hợp yêu cầu đề bài.
+      + Phân tích yêu cầu.
+      + Thiết kế front-end Markup (HTML,CSS).
+      + Viết báo cáo.
   
   - Tạ Anh Duy
-      • Xây dựng ý tưởng.
-      • Thiết kế front-end logic (Js).
-      • Thiết kế các chức năng của web.
-      • Tổng hợp, debug.
+      + Xây dựng ý tưởng.
+      + Thiết kế front-end logic (Js).
+      + Thiết kế các chức năng của web.
+      + Tổng hợp, debug.
   
   - Bùi Văn Lâm
-      • Lập trình back-end.
-      • Thiết kế các chức năng.
-      • Xây dựng cơ sở dữ liệu.
-      • Kiểm thử.
+      + Lập trình back-end.
+      + Thiết kế các chức năng.
+      + Xây dựng cơ sở dữ liệu.
+      + Kiểm thử.
 
 
   2. Thực hiện:
@@ -66,20 +66,20 @@ Thành viên nhóm
       Hoàn thiện phần soundwave. (Đang hoàn thiện)
 
   3.  Các chức năng của website.
-    • Website cho phép người dùng cá nhân hóa trang web của mình, cài đặt lựa chọn giao diện tùy ý (danh sách dạng lưới, dạng list, tùy biến các giao diện…).
-    • Hỗ trợ người dùng tìm kiếm các bài hát yêu thích, bài hát đã nghe dở.
-    • Cho phép người dùng tạo danh sách các bài hát ưa thích của mình.
-    • Cho phép người dùng có thể download, upload các bài hát mới lên danh sách của mình với nhiều lựa chọn định dạng.
-    • Cho phép đăng nhập, đăng ký tài khoản.
-    • Website còn có thể hiện lời bài hát.
-    • Giao diện chính của trang web có thể chuyển sang trạng thái rút gọn.
-    • Cho phép người dùng hẹn giờ tắt nhạc.
-    • Tương thích với đa thiết bị (PC, tablet, mobie..).
+    + Website cho phép người dùng cá nhân hóa trang web của mình, cài đặt lựa chọn giao diện tùy ý (danh sách dạng lưới, dạng list, tùy biến các giao diện…).
+    + Hỗ trợ người dùng tìm kiếm các bài hát yêu thích, bài hát đã nghe dở.
+    + Cho phép người dùng tạo danh sách các bài hát ưa thích của mình.
+    + Cho phép người dùng có thể download, upload các bài hát mới lên danh sách của mình với nhiều lựa chọn định dạng.
+    + Cho phép đăng nhập, đăng ký tài khoản.
+    + Website còn có thể hiện lời bài hát.
+    + Giao diện chính của trang web có thể chuyển sang trạng thái rút gọn.
+    + Cho phép người dùng hẹn giờ tắt nhạc.
+    + Tương thích với đa thiết bị (PC, tablet, mobie..).
   
   4. Các công nghệ sử dụng:
-    • HTML5, CSS3
-    • JavaScript
-    • JSP
-    • Preprocessor: SCSS
-    • Thư viện: Jquery (js)
-    • Sound Cloud API
+    + HTML5, CSS3
+    + JavaScript
+    + JSP
+    + Preprocessor: SCSS
+    + Thư viện: Jquery (js)
+    + Sound Cloud API
