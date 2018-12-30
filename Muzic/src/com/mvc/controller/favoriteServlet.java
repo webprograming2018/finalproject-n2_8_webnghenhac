@@ -24,6 +24,8 @@ public class favoriteServlet extends HttpServlet{
 		  request.setAttribute("titlemusic", title);
 		  String authorname= request.getParameter("authorname");
 		  request.setAttribute("author", authorname);
+		  String idlove = request.getParameter("idlove");
+		  request.setAttribute("idlove", idlove);
 		  RequestDispatcher requestDispatcher = request.getRequestDispatcher("/Home.jsp");
 		  requestDispatcher.forward(request, response);
 		  }

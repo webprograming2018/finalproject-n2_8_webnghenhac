@@ -359,10 +359,10 @@ let setLocalFavoriteList = ()=>{
   console.log(window.localStorage)
 }
 console.log(idlove);
-if(!!idlove){
+var intIdlove = parseInt(idlove);
+if(!!intIdlove){
 	console.log("nice")
   $('#like-btn').addClass('like');
-  localStorage.setItem('idlove',idlove);
 }
 $('#like-btn').on('click', function(event) {
 	  event.preventDefault();
@@ -389,8 +389,8 @@ $('#like-btn').on('click', function(event) {
         .catch(error => console.error('Error:', error));
       }else {
         // var idmusic = localStorage.getItem('idmusic');
-        var id = localStorage.getItem('idlove');
-        var urlDelete ='http://localhost:8089/Muzic/rest/favorite/'+id;
+//        var id = localStorage.getItem('idlove');
+        var urlDelete ='http://localhost:8089/Muzic/rest/favorite/'+intIdlove;
           fetch(urlDelete, {
             method: 'DELETE', // or 'PUT'
             headers:{
